@@ -1,3 +1,4 @@
+**This project has been deprecated and is no longer being maintained.**
 
 ## Discord Productivity Bot
 This bot is designed to increase the productivity for small teams by handling tasks such as time tracking. This bot gives teams the ability to:
